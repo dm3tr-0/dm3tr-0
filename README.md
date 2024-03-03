@@ -1,2 +1,2 @@
   👋 Hi there!^-^ )))
-![wave-comp](https://github.com/dm3tr-0/dm3tr-0/assets/140421001/ab89025c-00b7-4364-88d2-3fa8eec51be6)
+![Uploading 17_SI_TE_RIES_PIERDES_if_you_laugh_you_lose_-_YouTube_04.03.2024_2_40_05.png…]()
