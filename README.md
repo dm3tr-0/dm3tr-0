@@ -17,5 +17,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/dm3tr0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dm3tr0" /></a></p><br><br>
 
-
+<h3 align="left">Snake:</h3>
 <p><img alt="github-snake" src="https://github.com/user-attachments/assets/e1a9e586-ebb3-4307-b6fb-bfaa02a5ff96" /></p><br><br>
