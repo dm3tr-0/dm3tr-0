@@ -16,5 +16,5 @@
 
 <h3 align="left">Support:</h3> 
 <p><a href="https://ko-fi.com/dm3tr0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dm3tr0" /></a></p><br><br>
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/fcccc30b-75dd-4c91-ac47-f220a7d1aa02)
 
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/52a98382-954e-4a5b-8ae4-f7fc54515b74)
