@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **NAT**
 
-- 📫 U can reach me [here](t.me/zdesbka)
+- 📫 You can reach me [here](t.me/zdesbka)
 
 
 <p align="left">
