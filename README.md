@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dmitriy</h1>
-<h3 align="center">poor russian student</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dmitriy)](https://git.io/typing-svg)
+<h3 align="left">poor russian student</h3>
 
 - 🔭 I’m currently working on **p2p messanger**
 
