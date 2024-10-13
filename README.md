@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dmitriy)](https://git.io/typing-svg)
-<h3 align="left">poor russian student</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **p2p messanger**
 
