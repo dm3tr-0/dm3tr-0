@@ -13,7 +13,7 @@
 
 <h3 align="left">Support:</h3> 
 <a href="https://yoomoney.ru/to/4100119132101012"><img src="https://github.com/user-attachments/assets/30e01b11-81d6-4311-b3a6-fb44b9755355"> </a>
-
+<p>BTC: bc1qnrhxhcaylcd7uxumkjedcg4s5mf83zyny34u5m</p>
 <br><br>
 
 
