@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **p2p messanger**
 
-- 🤝 I’m looking for help with **webrtc**
-
 - 📫 You can reach me here: me@dm3tr0.ru
 
 
