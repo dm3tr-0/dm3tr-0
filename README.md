@@ -6,7 +6,7 @@
 
 ---
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
